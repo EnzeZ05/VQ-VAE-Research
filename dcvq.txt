@@ -1,0 +1,74 @@
+DCVQ-VAE | Flowers-102 @ 64x64 | 32x8d | 512 codes | cuda
+Params: 59,149,827
+======================================================================
+Epoch [  1/50]  Recon: 0.1547  VQ: 2.1653  Usage: 49/512
+Epoch [  2/50]  Recon: 0.0744  VQ: 0.2992  Usage: 56/512
+Epoch [  3/50]  Recon: 0.0558  VQ: 0.1042  Usage: 70/512
+Epoch [  4/50]  Recon: 0.0468  VQ: 0.0703  Usage: 79/512
+Epoch [  5/50]  Recon: 0.0404  VQ: 0.0523  Usage: 91/512
+  >> Val Recon: 0.0357
+
+Epoch [  6/50]  Recon: 0.0390  VQ: 0.0431  Usage: 107/512
+Epoch [  7/50]  Recon: 0.0349  VQ: 0.0325  Usage: 120/512
+Epoch [  8/50]  Recon: 0.0323  VQ: 0.0268  Usage: 137/512
+Epoch [  9/50]  Recon: 0.0308  VQ: 0.0224  Usage: 148/512
+Epoch [ 10/50]  Recon: 0.0287  VQ: 0.0195  Usage: 159/512
+  >> Val Recon: 0.0265
+
+Epoch [ 11/50]  Recon: 0.0274  VQ: 0.0173  Usage: 174/512
+Epoch [ 12/50]  Recon: 0.0267  VQ: 0.0156  Usage: 186/512
+Epoch [ 13/50]  Recon: 0.0256  VQ: 0.0147  Usage: 193/512
+Epoch [ 14/50]  Recon: 0.0238  VQ: 0.0135  Usage: 202/512
+Epoch [ 15/50]  Recon: 0.0225  VQ: 0.0126  Usage: 212/512
+  >> Val Recon: 0.0214
+
+Epoch [ 16/50]  Recon: 0.0218  VQ: 0.0120  Usage: 219/512
+Epoch [ 17/50]  Recon: 0.0209  VQ: 0.0114  Usage: 225/512
+Epoch [ 18/50]  Recon: 0.0207  VQ: 0.0110  Usage: 235/512
+Epoch [ 19/50]  Recon: 0.0200  VQ: 0.0108  Usage: 235/512
+Epoch [ 20/50]  Recon: 0.0193  VQ: 0.0102  Usage: 243/512
+  >> Val Recon: 0.0166
+
+Epoch [ 21/50]  Recon: 0.0182  VQ: 0.0098  Usage: 249/512
+Epoch [ 22/50]  Recon: 0.0182  VQ: 0.0096  Usage: 253/512
+Epoch [ 23/50]  Recon: 0.0173  VQ: 0.0092  Usage: 256/512
+Epoch [ 24/50]  Recon: 0.0165  VQ: 0.0089  Usage: 259/512
+Epoch [ 25/50]  Recon: 0.0165  VQ: 0.0087  Usage: 261/512
+  >> Val Recon: 0.0158
+
+Epoch [ 26/50]  Recon: 0.0157  VQ: 0.0086  Usage: 266/512
+Epoch [ 27/50]  Recon: 0.0157  VQ: 0.0084  Usage: 265/512
+Epoch [ 28/50]  Recon: 0.0153  VQ: 0.0082  Usage: 266/512
+Epoch [ 29/50]  Recon: 0.0149  VQ: 0.0080  Usage: 271/512
+Epoch [ 30/50]  Recon: 0.0149  VQ: 0.0079  Usage: 271/512
+  >> Val Recon: 0.0134
+
+Epoch [ 31/50]  Recon: 0.0143  VQ: 0.0078  Usage: 272/512
+Epoch [ 32/50]  Recon: 0.0141  VQ: 0.0077  Usage: 276/512
+Epoch [ 33/50]  Recon: 0.0141  VQ: 0.0076  Usage: 275/512
+Epoch [ 34/50]  Recon: 0.0138  VQ: 0.0075  Usage: 274/512
+Epoch [ 35/50]  Recon: 0.0136  VQ: 0.0074  Usage: 276/512
+  >> Val Recon: 0.0119
+
+Epoch [ 36/50]  Recon: 0.0135  VQ: 0.0073  Usage: 277/512
+Epoch [ 37/50]  Recon: 0.0129  VQ: 0.0071  Usage: 279/512
+Epoch [ 38/50]  Recon: 0.0129  VQ: 0.0071  Usage: 279/512
+Epoch [ 39/50]  Recon: 0.0127  VQ: 0.0070  Usage: 281/512
+Epoch [ 40/50]  Recon: 0.0129  VQ: 0.0070  Usage: 280/512
+  >> Val Recon: 0.0110
+
+Epoch [ 41/50]  Recon: 0.0127  VQ: 0.0069  Usage: 280/512
+Epoch [ 42/50]  Recon: 0.0127  VQ: 0.0069  Usage: 281/512
+Epoch [ 43/50]  Recon: 0.0123  VQ: 0.0068  Usage: 280/512
+Epoch [ 44/50]  Recon: 0.0122  VQ: 0.0068  Usage: 281/512
+Epoch [ 45/50]  Recon: 0.0122  VQ: 0.0068  Usage: 281/512
+  >> Val Recon: 0.0107
+
+Epoch [ 46/50]  Recon: 0.0120  VQ: 0.0067  Usage: 281/512
+Epoch [ 47/50]  Recon: 0.0120  VQ: 0.0067  Usage: 281/512
+Epoch [ 48/50]  Recon: 0.0121  VQ: 0.0067  Usage: 281/512
+Epoch [ 49/50]  Recon: 0.0120  VQ: 0.0067  Usage: 281/512
+Epoch [ 50/50]  Recon: 0.0119  VQ: 0.0067  Usage: 281/512
+  >> Val Recon: 0.0107
+
+======================================================================

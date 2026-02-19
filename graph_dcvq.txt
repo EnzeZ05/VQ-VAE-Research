@@ -1,0 +1,70 @@
+(.venv) root@autodl-container-c5bc45954d-6b524573:~/PycharmProjects/PythonProject# python main.py
+DCVQ+Iso (EMA) | 16x8d | 512 codes | iso_w=0.01 | cuda
+Building geodesic distance matrix...
+  8189 images, flattened to 12288d
+  Computing shortest paths (Dijkstra)...
+  Done. Matrix shape: (8189, 8189)
+Params: 14,763,779
+======================================================================
+Epoch [  1/50]  Recon: 0.0875  VQ: 0.0057  Iso: 0.0166  Usage: ~110/512
+Epoch [  2/50]  Recon: 0.0431  VQ: 0.0038  Iso: 0.0153  Usage: ~118/512
+Epoch [  3/50]  Recon: 0.0352  VQ: 0.0035  Iso: 0.0172  Usage: ~123/512
+Epoch [  4/50]  Recon: 0.0317  VQ: 0.0030  Iso: 0.0175  Usage: ~134/512
+Epoch [  5/50]  Recon: 0.0293  VQ: 0.0025  Iso: 0.0180  Usage: ~205/512
+  >> Val Recon: 0.0264
+Epoch [  6/50]  Recon: 0.0267  VQ: 0.0019  Iso: 0.0184  Usage: ~268/512
+Epoch [  7/50]  Recon: 0.0249  VQ: 0.0017  Iso: 0.0189  Usage: ~288/512
+Epoch [  8/50]  Recon: 0.0238  VQ: 0.0017  Iso: 0.0192  Usage: ~296/512
+Epoch [  9/50]  Recon: 0.0230  VQ: 0.0016  Iso: 0.0216  Usage: ~307/512
+Epoch [ 10/50]  Recon: 0.0217  VQ: 0.0015  Iso: 0.0213  Usage: ~313/512
+  >> Val Recon: 0.0197
+Epoch [ 11/50]  Recon: 0.0209  VQ: 0.0015  Iso: 0.0217  Usage: ~316/512
+Epoch [ 12/50]  Recon: 0.0202  VQ: 0.0015  Iso: 0.0219  Usage: ~320/512
+Epoch [ 13/50]  Recon: 0.0198  VQ: 0.0015  Iso: 0.0221  Usage: ~322/512
+Epoch [ 14/50]  Recon: 0.0193  VQ: 0.0015  Iso: 0.0240  Usage: ~328/512
+Epoch [ 15/50]  Recon: 0.0186  VQ: 0.0015  Iso: 0.0243  Usage: ~331/512
+  >> Val Recon: 0.0171
+Epoch [ 16/50]  Recon: 0.0184  VQ: 0.0015  Iso: 0.0229  Usage: ~334/512
+Epoch [ 17/50]  Recon: 0.0183  VQ: 0.0015  Iso: 0.0252  Usage: ~338/512
+Epoch [ 18/50]  Recon: 0.0179  VQ: 0.0015  Iso: 0.0251  Usage: ~335/512
+Epoch [ 19/50]  Recon: 0.0171  VQ: 0.0014  Iso: 0.0258  Usage: ~340/512
+Epoch [ 20/50]  Recon: 0.0169  VQ: 0.0014  Iso: 0.0259  Usage: ~339/512
+  >> Val Recon: 0.0152
+Epoch [ 21/50]  Recon: 0.0169  VQ: 0.0014  Iso: 0.0240  Usage: ~343/512
+Epoch [ 22/50]  Recon: 0.0165  VQ: 0.0014  Iso: 0.0251  Usage: ~348/512
+Epoch [ 23/50]  Recon: 0.0163  VQ: 0.0014  Iso: 0.0256  Usage: ~344/512
+Epoch [ 24/50]  Recon: 0.0167  VQ: 0.0014  Iso: 0.0260  Usage: ~343/512
+Epoch [ 25/50]  Recon: 0.0159  VQ: 0.0014  Iso: 0.0268  Usage: ~346/512
+  >> Val Recon: 0.0146
+Epoch [ 26/50]  Recon: 0.0156  VQ: 0.0014  Iso: 0.0265  Usage: ~346/512
+Epoch [ 27/50]  Recon: 0.0156  VQ: 0.0014  Iso: 0.0275  Usage: ~346/512
+Epoch [ 28/50]  Recon: 0.0158  VQ: 0.0014  Iso: 0.0276  Usage: ~347/512
+Epoch [ 29/50]  Recon: 0.0154  VQ: 0.0014  Iso: 0.0280  Usage: ~347/512
+Epoch [ 30/50]  Recon: 0.0152  VQ: 0.0014  Iso: 0.0294  Usage: ~352/512
+  >> Val Recon: 0.0145
+Epoch [ 31/50]  Recon: 0.0149  VQ: 0.0013  Iso: 0.0288  Usage: ~342/512
+Epoch [ 32/50]  Recon: 0.0150  VQ: 0.0013  Iso: 0.0310  Usage: ~350/512
+Epoch [ 33/50]  Recon: 0.0148  VQ: 0.0013  Iso: 0.0293  Usage: ~348/512
+Epoch [ 34/50]  Recon: 0.0148  VQ: 0.0013  Iso: 0.0298  Usage: ~343/512
+Epoch [ 35/50]  Recon: 0.0147  VQ: 0.0013  Iso: 0.0297  Usage: ~353/512
+  >> Val Recon: 0.0135
+Epoch [ 36/50]  Recon: 0.0145  VQ: 0.0013  Iso: 0.0295  Usage: ~342/512
+Epoch [ 37/50]  Recon: 0.0143  VQ: 0.0013  Iso: 0.0316  Usage: ~346/512
+Epoch [ 38/50]  Recon: 0.0142  VQ: 0.0013  Iso: 0.0308  Usage: ~346/512
+Epoch [ 39/50]  Recon: 0.0140  VQ: 0.0013  Iso: 0.0295  Usage: ~345/512
+Epoch [ 40/50]  Recon: 0.0139  VQ: 0.0013  Iso: 0.0290  Usage: ~349/512
+  >> Val Recon: 0.0124
+Epoch [ 41/50]  Recon: 0.0139  VQ: 0.0013  Iso: 0.0302  Usage: ~350/512
+Epoch [ 42/50]  Recon: 0.0137  VQ: 0.0013  Iso: 0.0296  Usage: ~346/512
+Epoch [ 43/50]  Recon: 0.0139  VQ: 0.0013  Iso: 0.0305  Usage: ~343/512
+Epoch [ 44/50]  Recon: 0.0138  VQ: 0.0013  Iso: 0.0311  Usage: ~343/512
+Epoch [ 45/50]  Recon: 0.0136  VQ: 0.0013  Iso: 0.0296  Usage: ~347/512
+  >> Val Recon: 0.0123
+Epoch [ 46/50]  Recon: 0.0135  VQ: 0.0012  Iso: 0.0314  Usage: ~342/512
+Epoch [ 47/50]  Recon: 0.0137  VQ: 0.0012  Iso: 0.0325  Usage: ~338/512
+Epoch [ 48/50]  Recon: 0.0135  VQ: 0.0012  Iso: 0.0305  Usage: ~348/512
+Epoch [ 49/50]  Recon: 0.0136  VQ: 0.0012  Iso: 0.0314  Usage: ~344/512
+Epoch [ 50/50]  Recon: 0.0136  VQ: 0.0012  Iso: 0.0312  Usage: ~338/512
+  >> Val Recon: 0.0123
+======================================================================
+Saved dcvq_iso_ema.pt

@@ -1,0 +1,8 @@
+Interpretability / Disentanglement
+Few bits show significant correlation, most of them share common features
+
+Codebook Utilization
+Around 1/5 bits are inactive(?) but sometimes are activated(not absolutely 0)
+
+Scaling Behavior
+
