@@ -1,0 +1,1 @@
+## This is a collection of my code and ideas on improving VQ-VAE with analysis in multiple perspectives(Near-Manifolds, tangent space, architectures, contrastive learning). Many trials (but all failed), several are done or variant to Deepminds' FSQ, other researches. Severals are working bad or not exceeding SOTA. Severals are rejected by my advisor.
